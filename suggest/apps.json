@@ -13,6 +13,13 @@
       "category": "Health & Fitness",
       "icon": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/suggest//water033.png",
       "url":"https://play.google.com/store/apps/details?id=com.eywinapps.waterreminder"
+    },
+   {
+      "id": 2,
+      "name": "Photo Vault Pro",
+      "category": "Health & Fitness",
+      "icon": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/suggest//safe100.png",
+      "url":"https://play.google.com/store/apps/details?id=com.eywinapps.waterreminder"
     }
   ]
 }
