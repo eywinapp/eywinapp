@@ -1,0 +1,32 @@
+{
+    "data":[
+      {
+      "id": 0,
+      "name": "Assistive Touch",
+      "category": "Productivity",
+      "icon": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/suggest/assistive.png",
+      "url":"https://play.google.com/store/apps/details?id=com.eywin.assistivetouch"
+    },
+    {
+      "id": 1,
+      "name": "Applock Pro",
+      "category": "Productivity",
+      "icon": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/suggest/applock313.png",
+      "url":"https://play.google.com/store/apps/details?id=com.ibragunduz.applockpro"
+    },
+   {
+      "id": 2,
+      "name": "Water Reminder",
+      "category": "Health & Fitness",
+      "icon": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/suggest//water033.png",
+      "url":"https://play.google.com/store/apps/details?id=com.eywinapps.waterreminder"
+    },
+   {
+      "id": 3,
+      "name": "Photo Vault Pro",
+      "category": "Productivity",
+      "icon": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/suggest//safe100.png",
+      "url":"https://play.google.com/store/apps/details?id=tr.com.eywin.safe_vault"
+    }
+  ]
+}
