@@ -2,82 +2,102 @@
    
   {
     "id": 0,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/01.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/01.jpg",
+    "isPremium": false
   },
    {
     "id": 14,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/02.gif"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/02.gif",
+    "isPremium": false
   },
   {
     "id": 1,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/01.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/01.jpg",
+    "isPremium": false
   },
   {
     "id": 2,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/02.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/02.jpg",
+    "isPremium": true
   },
   {
     "id": 3,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/03.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/03.jpg",
+    "isPremium": false
   },
   {
     "id": 4,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/04.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/04.jpg",
+    "isPremium": true
   },
   {
     "id": 5,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/05.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/05.jpg",
+    "isPremium": true
   },
   {
     "id": 6,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/06.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/06.jpg",
+    "isPremium": false
   },
   {
     "id": 7,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/07.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/07.jpg",
+    "isPremium": true
   },
   {
     "id": 8,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/08.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/08.jpg",
+    "isPremium": true
   },
   {
     "id": 9,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/09.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/09.jpg",
+    "isPremium": false
   },
   {
     "id": 10,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/10.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/10.jpg",
+    "isPremium": true
   },
   {
     "id": 11,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/11.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/11.jpg",
+    "isPremium": true
   },
   {
     "id": 12,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/12.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/12.jpg",
+    "isPremium": false
   },
   {
     "id": 13,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/13.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/13.jpg",
+    "isPremium": true
   },
   {
     "id": 14,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/14.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/14.jpg",
+    "isPremium": true
   },
   {
     "id": 15,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/15.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/15.jpg",
+    "isPremium": false
   },
   {
     "id": 16,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/16.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/16.jpg",
+    "isPremium": true
   },
   {
     "id": 17,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/17.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/17.jpg",
+    "isPremium": true
   },
   {
     "id": 18,
-    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/18.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/eywinapp/eywinapp@dev/bg/18.jpg",
+    "isPremium": false
   }
 ]
